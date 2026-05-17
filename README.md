@@ -1,4 +1,4 @@
-~ M4-COMPACT .CO L.L.C/CANYON-ETERTAINMENT ~
+~ M4-COMPACT .CO L.L.C/Ballistic-Entertainment ~
 
 =======================================
                 ABOUT
