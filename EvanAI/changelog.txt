@@ -1,0 +1,23 @@
+===============================================================
+			   CHANGELOG
+===============================================================
+
+======== 17/05/26 ========
+
+- Unstable RAG System Implemented
+
+- Upgrade version to Gen-4(v4.0.1, ALPHA)
+
+- Fixed Bugs
+
+- Ngasal terus sih, tapi tak apa-apa
+
+======== 07/05/26 ========
+
+- Primitive & Simple RAG System
+
+- Upgrade version to Gen-3(v3.1.0)
+
+- Updated Website
+
+- Launcher Improved

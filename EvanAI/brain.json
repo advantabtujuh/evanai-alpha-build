@@ -1,0 +1,7 @@
+{
+    "personality": "student",
+    "metadata": {
+        "version": "4.0.0",
+        "hallucinations": 3
+    }
+}
